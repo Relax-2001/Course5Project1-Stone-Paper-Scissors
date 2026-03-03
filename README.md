@@ -43,11 +43,3 @@ g++ main.cpp -o game
 * Uses enums for game states and choices
 * Struct-based data organization
 * Modular functions for game logic
-
-## 👨‍💻 Author
-
-Replace with your name if needed.
-
----
-
-If you want, I can make the README **more professional (portfolio-level for job applications)** or add **badges + screenshots section**.
